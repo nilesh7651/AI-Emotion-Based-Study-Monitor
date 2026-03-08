@@ -326,4 +326,10 @@ MIT License - Feel free to modify and distribute!
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern UI framework
 - [TensorFlow](https://www.tensorflow.org/) - Machine Learning framework
 - [OpenCV](https://opencv.org/) - Computer Vision library
+<<<<<<< Updated upstream
 #
+=======
+#   A I - E m o t i o n - B a s e d - S t u d y - M o n i t o r  
+ #   A I - E m o t i o n - B a s e d - S t u d y - M o n i t o r  
+ 
+>>>>>>> Stashed changes

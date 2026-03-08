@@ -1,0 +1,21 @@
+﻿opencv-python
+fer
+tensorflow==2.15.0
+pyttsx3
+pygame
+customtkinter
+pandas
+numpy
+pillow
+deepface
+matplotlib
+scipy
+win10toast
+face_recognition
+dlib
+
+# Web version dependencies
+flask
+flask-socketio
+streamlit
+streamlit-webrtc
