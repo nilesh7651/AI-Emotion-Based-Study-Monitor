@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+
+# TensorFlow / ML
+*.h5
+*.hdf5
+*.pb
+*.ckpt*
+*.tflite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project-specific generated files
+charts/*.png
+session_history.json
+study_report.json
+study_goals.json
+achievements.json
+users.json
+face_encodings.pkl
+config.json
+
+# Logs and debug files
+*.log
+pip_*.txt
+tf_debug.txt
+tf_error.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sound files (optional user-added)
+sounds/*.wav
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
